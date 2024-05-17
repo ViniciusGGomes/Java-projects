@@ -1,9 +1,9 @@
 
 steps:
 - name: 'gcr.io/cloud-builders/gcloud'
-  args: ['builds', 'submit', '--tag', 'gcr.io/animated-sign-402920/My First Project', '.']
+  args: ['builds', 'submit', '--tag', 'gcr.io/animated-sign-402920/MeuProjeto', '.']
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/animated-sign-402920/My First Project']
+  args: ['push', 'gcr.io/animated-sign-402920/MeuProjeto']
 timeout: '1600s'
 images:
-- 'gcr.io/animated-sign-402920/My First Project'
+- 'gcr.io/animated-sign-402920/MeuProjeto'
