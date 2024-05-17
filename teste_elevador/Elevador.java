@@ -1,5 +1,5 @@
 package teste_elevador;
-//testee
+//testeee
 class Elevador {
 	
     private int andarAtual;
