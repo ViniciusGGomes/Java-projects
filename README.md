@@ -1,1 +1,2 @@
-Aqui estão alguns projetos desenvolvidos na faculdade, foram feitos para colocar o conhecimento de teste de software em pratica 
+Aqui estão alguns projetos desenvolvidos na faculdade. Eles foram feitos para colocar em prática o conhecimento sobre testes unitários.
+
